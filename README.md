@@ -23,4 +23,7 @@ is-test-repo-changelog-v5/
 
 ## Jira
 
-Prueba funcional: **JIRA-AI-1009** (80 archivos, carga inicial real v5 post-dedup).
+Prueba funcional: **JIRA-AI-1009**.
+
+- **PR #1:** carga inicial 80 archivos (validacion multi-archivo).
+- **PR #3:** cambio minimo post-deploy QueryRunner (AI-970) para validar dedup + resumen LLM real.
