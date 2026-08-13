@@ -27,4 +27,5 @@ Prueba funcional: **JIRA-AI-1009**.
 
 - **PR #1:** carga inicial 80 archivos (validacion multi-archivo).
 - **PR #3:** cambio minimo pre-deploy QueryRunner (fallback generico por 429).
-- **PR #4:** cambio minimo post-deploy QueryRunner (AI-970) — validacion dedup + resumen LLM real.
+- **PR #4:** cambio minimo post-deploy QueryRunner (fallback generico por 429, merge muy rapido).
+- **PR #5:** validacion final post-deploy + cooldown LLM (AI-970).
