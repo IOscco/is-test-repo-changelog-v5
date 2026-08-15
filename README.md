@@ -29,3 +29,6 @@ Prueba funcional: **JIRA-AI-1009**.
 - **PR #3:** cambio minimo pre-deploy QueryRunner (fallback generico por 429).
 - **PR #4:** cambio minimo post-deploy QueryRunner (fallback generico por 429, merge muy rapido).
 - **PR #5:** validacion final post-deploy + cooldown LLM (AI-970).
+
+
+<!-- PR #6 validacion resiliencia LLM 429 -->
